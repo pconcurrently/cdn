@@ -17,7 +17,7 @@ var nOfLD = 2;
 var qtList = {
         "anh tâm thảo": {
             val : 800,
-            limit: 30,
+            limit: 31,
         },
         "băng hỏa ngọc": {
             val : 20000,
