@@ -296,7 +296,7 @@ var qtList = {
             limit: 4,
         },
         "tinh thiết cp": {
-            val : 20,
+            val : 2,
             limit: 10,
         },
         "tinh thiết hp": {
@@ -304,11 +304,11 @@ var qtList = {
             limit: 0,
         },
         "tinh thiết thp": {
-            val : 12,
+            val : 1,
             limit: 1000,
         },
         "tinh thiết tp": {
-            val : 10,
+            val : 1,
             limit: 1000,
         },
         "trích tinh thảo": {
