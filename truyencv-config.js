@@ -296,7 +296,7 @@ var qtList = {
             limit: 2,
         },
         "tinh linh hp": {
-            val : 55000,
+            val : 48000,
             limit: 10,
         },
         "tinh linh thp": {
