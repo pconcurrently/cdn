@@ -84,11 +84,11 @@ var qtList = {
             limit: 20,
         },
         "huyết trích thạch": {
-            val : 20000,
+            val : 10000,
             limit: 5,
         },
         "hòa thị bích": {
-            val : 150000,
+            val : 140000,
             limit: 5,
         },
         "hóa long thảo": {
@@ -116,7 +116,7 @@ var qtList = {
             limit: 5,
         },
         "hổ phách thạch": {
-            val : 45000,
+            val : 40000,
             limit: 4,
         },
         "hộ linh trận": {
