@@ -340,7 +340,7 @@ var qtList = {
             limit: 5,
         },
         "tạo hóa lô": {
-            val : 4000,
+            val : 3500,
             limit: 10,
         },
         "tẩy tủy đan": {
