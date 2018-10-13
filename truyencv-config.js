@@ -11,8 +11,8 @@ var allLT = {
   hnt: "65",
 };
 
-var selectedLT = "ltt";
-var nOfLD = 2;
+var selectedLT = "ttt";
+var nOfLD = 1;
 
 var qtList = {
         "anh tâm thảo": {
@@ -328,8 +328,8 @@ var qtList = {
             limit: 1000,
         },
         "trích tinh thảo": {
-            val : 340,
-            limit: 1000,
+            val : 400,
+            limit: 500,
         },
         "trúc cơ đan phương": {
             val : 30000,
