@@ -280,8 +280,8 @@ var qtList = {
             limit: 2,
         },
         "thiên linh đỉnh": {
-            val : 500,
-            limit: 2,
+            val : 350,
+            limit: 0,
         },
         "thiên nguyên thảo": {
             val : 60,
@@ -328,7 +328,7 @@ var qtList = {
             limit: 1000,
         },
         "trích tinh thảo": {
-            val : 400,
+            val : 395,
             limit: 500,
         },
         "trúc cơ đan phương": {
