@@ -260,7 +260,7 @@ var qtList = {
             limit: 5,
         },
         "sa ngọc châu": {
-            val : 70000,
+            val : 110000,
             limit: 3,
         },
         "thanh tâm đan": {
