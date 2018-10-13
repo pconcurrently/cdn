@@ -280,7 +280,7 @@ var qtList = {
             limit: 2,
         },
         "thiên nguyên thảo": {
-            val : 59,
+            val : 60,
             limit: 1000,
         },
         "thiên địa lô": {
