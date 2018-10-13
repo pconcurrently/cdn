@@ -63,6 +63,10 @@ var qtList = {
             val : 20000,
             limit: 5,
         },
+        "địa tâm bội": {
+            val : 150000,
+            limit: 5,
+        },
         "hoàng kim lệnh": {
             val : 35000,
             limit: 1,
