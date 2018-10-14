@@ -360,8 +360,8 @@ var qtList = {
             limit: 100,
         },
         "vạn thú đỉnh": {
-            val : 1000,
-            limit: 5,
+            val : 800,
+            limit: 0,
         },
         "vẫn thiết cp": {
             val : 100,
