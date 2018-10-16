@@ -176,7 +176,7 @@ var qtList = {
             limit: 40,
         },
         "luyện thần đan phương": {
-            val : 150000,
+            val : 120000,
             limit: 1,
         },
         "lông sói": {
