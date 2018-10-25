@@ -260,7 +260,7 @@ var qtList = {
             limit: 5,
         },
         "quyên bạch": {
-            val : 3000,
+            val : 2000,
             limit: 5,
         },
         "sa ngọc châu": {
@@ -344,8 +344,8 @@ var qtList = {
             limit: 5,
         },
         "tạo hóa lô": {
-            val : 3500,
-            limit: 10,
+            val : 2500,
+            limit: 0,
         },
         "tẩy tủy đan": {
             val : 150,
