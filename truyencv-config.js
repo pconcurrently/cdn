@@ -144,7 +144,7 @@ var qtList = {
             limit: 0,
         },
         "la bàn": {
-            val : 45000,
+            val : 40000,
             limit: 5
         },
         "linh thạch cp": {
@@ -256,7 +256,7 @@ var qtList = {
             limit: 20,
         },
         "quy giáp": {
-            val : 45000,
+            val : 40000,
             limit: 5,
         },
         "quyên bạch": {
