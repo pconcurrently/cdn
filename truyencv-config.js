@@ -256,7 +256,7 @@ var qtList = {
             limit: 20,
         },
         "quy giáp": {
-            val : 40000,
+            val : 37000,
             limit: 5,
         },
         "quyên bạch": {
