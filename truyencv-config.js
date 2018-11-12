@@ -368,16 +368,16 @@ var qtList = {
             limit: 1000,
         },
         "vẫn thiết hp": {
-            val : 1,
-            limit: 0,
+            val : 10,
+            limit: 1000,
         },
         "vẫn thiết thp": {
-            val : 10,
-            limit: 0,
+            val : 50,
+            limit: 1000,
         },
         "vẫn thiết tp": {
-            val : 5,
-            limit: 0,
+            val : 20,
+            limit: 1000,
         },
         "đại phá đan": {
             val : 35000,
