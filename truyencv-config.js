@@ -116,7 +116,7 @@ var qtList = {
             limit: 4,
         },
         "hỏa ngọc châu": {
-            val : 20000,
+            val : 45000,
             limit: 5,
         },
         "hổ phách thạch": {
@@ -268,7 +268,7 @@ var qtList = {
             limit: 5,
         },
         "sa ngọc châu": {
-            val : 110000,
+            val : 140000,
             limit: 3,
         },
         "thanh tâm đan": {
@@ -296,7 +296,7 @@ var qtList = {
             limit: 10,
         },
         "thải ngọc châu": {
-            val : 45000,
+            val : 55000,
             limit: 4,
         },
         "tinh linh cp": {
@@ -304,11 +304,11 @@ var qtList = {
             limit: 2,
         },
         "tinh linh hp": {
-            val : 50000,
+            val : 45000,
             limit: 10,
         },
         "tinh linh thp": {
-            val : 290000,
+            val : 280000,
             limit: 4,
         },
         "tinh linh tp": {
@@ -340,7 +340,7 @@ var qtList = {
             limit: 2,
         },
         "tán lôi trận": {
-            val : 120000,
+            val : 140000,
             limit: 2,
         },
         "túi trữ vật": {
@@ -372,15 +372,15 @@ var qtList = {
             limit: 1000,
         },
         "vẫn thiết hp": {
-            val : 10,
+            val : 20,
             limit: 1000,
         },
         "vẫn thiết thp": {
-            val : 50,
+            val : 90,
             limit: 1000,
         },
         "vẫn thiết tp": {
-            val : 20,
+            val : 40,
             limit: 1000,
         },
         "đại phá đan": {
