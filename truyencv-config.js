@@ -16,7 +16,7 @@ var nOfLD = 1;
 
 var qtList = {
         "anh tâm thảo": {
-            val : 800,
+            val : 1000,
             limit: 30,
         },
         "băng hỏa ngọc": {
@@ -288,7 +288,7 @@ var qtList = {
             limit: 0,
         },
         "thiên nguyên thảo": {
-            val : 60,
+            val : 75,
             limit: 1000,
         },
         "thiên địa lô": {
