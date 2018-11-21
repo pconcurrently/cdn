@@ -40,8 +40,8 @@ var qtList = {
             limit: 50,
         },
         "bổ nguyên đan phương": {
-            val : 110000,
-            limit: 2,
+            val : 90000,
+            limit: 0,
         },
         "bốc nguyên đỉnh": {
             val : 150000,
@@ -180,8 +180,8 @@ var qtList = {
             limit: 40,
         },
         "luyện thần đan phương": {
-            val : 120000,
-            limit: 1,
+            val : 100000,
+            limit: 0,
         },
         "lông sói": {
             val : 600,
@@ -337,7 +337,7 @@ var qtList = {
         },
         "trúc cơ đan phương": {
             val : 30000,
-            limit: 2,
+            limit: 0,
         },
         "tán lôi trận": {
             val : 140000,
