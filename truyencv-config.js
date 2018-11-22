@@ -300,7 +300,7 @@ var qtList = {
             limit: 4,
         },
         "tinh linh cp": {
-            val : 240000,
+            val : 205000,
             limit: 2,
         },
         "tinh linh hp": {
@@ -312,7 +312,7 @@ var qtList = {
             limit: 4,
         },
         "tinh linh tp": {
-            val : 110000,
+            val : 105000,
             limit: 4,
         },
         "tinh thiết cp": {
