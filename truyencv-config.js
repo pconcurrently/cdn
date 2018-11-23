@@ -232,11 +232,11 @@ var qtList = {
             limit: 2,
         },
         "nội đan c4": {
-            val : 55000,
+            val : 40000,
             limit: 2,
         },
         "nội đan c5": {
-            val : 65000,
+            val : 45000,
             limit: 2,
         },
         "nội đan c6": {
@@ -244,11 +244,11 @@ var qtList = {
             limit: 2,
         },
         "nội đan c7": {
-            val : 75000,
+            val : 70000,
             limit: 2,
         },
         "nội đan c8": {
-            val : 75000,
+            val : 70000,
             limit: 2,
         },
         "nội đan c9": {
