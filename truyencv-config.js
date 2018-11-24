@@ -48,8 +48,8 @@ var qtList = {
             limit: 2,
         },
         "chu sa": {
-            val : 2000,
-            limit: 10,
+            val : 1200,
+            limit: 5,
         },
         "công pháp tàn quyển": {
             val : 15000,
@@ -184,7 +184,7 @@ var qtList = {
             limit: 0,
         },
         "lông sói": {
-            val : 600,
+            val : 400,
             limit: 5,
         },
         "nguyệt bạch thạch": {
@@ -264,7 +264,7 @@ var qtList = {
             limit: 5,
         },
         "quyên bạch": {
-            val : 2000,
+            val : 1500,
             limit: 5,
         },
         "sa ngọc châu": {
