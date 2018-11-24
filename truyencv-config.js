@@ -368,7 +368,7 @@ var qtList = {
             limit: 0,
         },
         "vẫn thiết cp": {
-            val : 330,
+            val : 260,
             limit: 1000,
         },
         "vẫn thiết hp": {
@@ -384,7 +384,7 @@ var qtList = {
             limit: 1000,
         },
         "đại phá đan": {
-            val : 35000,
+            val : 30000,
             limit: 5,
         },
         "độ hư đan": {
