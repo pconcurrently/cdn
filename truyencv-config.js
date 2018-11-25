@@ -384,8 +384,8 @@ var qtList = {
             limit: 1000,
         },
         "đại phá đan": {
-            val : 30000,
-            limit: 5,
+            val : 20000,
+            limit: 0,
         },
         "độ hư đan": {
             val : 20000,
