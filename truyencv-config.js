@@ -56,8 +56,8 @@ var qtList = {
             limit: 5,
         },
         "cố thần đan": {
-            val : 60000,
-            limit: 5,
+            val : 55000,
+            limit: 2,
         },
         "dung thần đan": {
             val : 20000,
