@@ -156,15 +156,15 @@ var qtList = {
             limit: 20,
         },
         "linh thạch hp": {
-            val : 85,
+            val : 80,
             limit: 200,
         },
         "linh thạch thp": {
-            val : 5600,
+            val : 5000,
             limit: 50,
         },
         "linh thạch tp": {
-            val : 620,
+            val : 600,
             limit: 100,
         },
         "linh tuyền": {
@@ -180,15 +180,15 @@ var qtList = {
             limit: 40,
         },
         "luyện thần đan phương": {
-            val : 100000,
-            limit: 0,
+            val : 80000,
+            limit: 1,
         },
         "lông sói": {
             val : 400,
             limit: 5,
         },
         "nguyệt bạch thạch": {
-            val : 30000,
+            val : 40000,
             limit: 4,
         },
         "ngưng thần đan": {
@@ -196,7 +196,7 @@ var qtList = {
             limit: 4,
         },
         "ngọc giản truyền công": {
-            val : 70000,
+            val : 65000,
             limit: 4,
         },
         "ngọc tủy linh nhũ cp": {
@@ -288,7 +288,7 @@ var qtList = {
             limit: 0,
         },
         "thiên nguyên thảo": {
-            val : 75,
+            val : 65,
             limit: 1000,
         },
         "thiên địa lô": {
