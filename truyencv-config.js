@@ -160,15 +160,15 @@ var qtList = {
             limit: 200,
         },
         "linh thạch thp": {
-            val : 5000,
+            val : 4800,
             limit: 50,
         },
         "linh thạch tp": {
-            val : 600,
+            val : 580,
             limit: 100,
         },
         "linh tuyền": {
-            val : 800000,
+            val : 900000,
             limit: 2,
         },
         "luyện thần thảo": {
