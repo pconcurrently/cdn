@@ -132,7 +132,7 @@ var qtList = {
             limit: 40,
         },
         "khai thiên thần thạch": {
-            val : 240,
+            val : 260,
             limit: 200,
         },
         "kim thuổng": {
