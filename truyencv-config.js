@@ -376,7 +376,7 @@ var qtList = {
             limit: 1000,
         },
         "vẫn thiết thp": {
-            val : 120,
+            val : 180,
             limit: 1000,
         },
         "vẫn thiết tp": {
