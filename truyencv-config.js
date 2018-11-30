@@ -221,39 +221,39 @@ var qtList = {
         },
         "nội đan c1": {
             val : 25000,
-            limit: 2,
+            limit: 0,
         },
         "nội đan c2": {
             val : 35000,
-            limit: 2,
+            limit: 0,
         },
         "nội đan c3": {
             val : 40000,
-            limit: 2,
+            limit: 0,
         },
         "nội đan c4": {
             val : 40000,
-            limit: 2,
+            limit: 0,
         },
         "nội đan c5": {
             val : 45000,
-            limit: 2,
+            limit: 0,
         },
         "nội đan c6": {
             val : 70000,
-            limit: 2,
+            limit: 0,
         },
         "nội đan c7": {
             val : 70000,
-            limit: 2,
+            limit: 0,
         },
         "nội đan c8": {
             val : 70000,
-            limit: 2,
+            limit: 0,
         },
         "nội đan c9": {
             val : 75000,
-            limit: 2,
+            limit: 0,
         },
         "phá thiên đan": {
             val : 4000,
