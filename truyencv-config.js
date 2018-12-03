@@ -81,7 +81,7 @@ var qtList = {
         },
         "huyết tinh thảo": {
             val : 30,
-            limit: 100,
+            limit: 0,
         },
         "huyết tinh đan": {
             val : 100,
@@ -97,10 +97,10 @@ var qtList = {
         },
         "hóa long thảo": {
             val : 19,
-            limit: 50,
+            limit: 0,
         },
         "hóa nguyên thảo": {
-            val : 1300,
+            val : 1000,
             limit: 100,
         },
         "hóa nguyên đan": {
@@ -172,7 +172,7 @@ var qtList = {
             limit: 2,
         },
         "luyện thần thảo": {
-            val : 1380,
+            val : 1000,
             limit: 60,
         },
         "luyện thần đan": {
@@ -288,7 +288,7 @@ var qtList = {
             limit: 0,
         },
         "thiên nguyên thảo": {
-            val : 65,
+            val : 55,
             limit: 1000,
         },
         "thiên địa lô": {
@@ -332,7 +332,7 @@ var qtList = {
             limit: 1000,
         },
         "trích tinh thảo": {
-            val : 395,
+            val : 350,
             limit: 500,
         },
         "trúc cơ đan phương": {
