@@ -20,8 +20,8 @@ var qtList = {
             limit: 30,
         },
         "băng hỏa ngọc": {
-            val : 20000,
-            limit: 10,
+            val : 5000,
+            limit: 1,
         },
         "bổ anh đan": {
             val : 800,
@@ -396,15 +396,15 @@ var qtList = {
             limit: 5,
         },
         "khăn noel": {
-            val : 2000,
+            val : 1500,
             limit: 5,
         },
         "khối tuyết": {
-            val : 2000,
+            val : 1500,
             limit: 5,
         },
         "cà rốt": {
-            val : 2000,
+            val : 1500,
             limit: 5,
         },
         "vòng nguyệt quế": {
