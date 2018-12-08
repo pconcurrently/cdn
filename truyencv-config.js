@@ -304,15 +304,15 @@ var qtList = {
             limit: 2,
         },
         "tinh linh hp": {
-            val : 42000,
+            val : 38000,
             limit: 1,
         },
         "tinh linh thp": {
-            val : 230000,
+            val : 210000,
             limit: 1,
         },
         "tinh linh tp": {
-            val : 80000,
+            val : 60000,
             limit: 4,
         },
         "tinh thiết cp": {
