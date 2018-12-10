@@ -36,7 +36,7 @@ var qtList = {
             limit: 0,
         },
         "bổ nguyên đan": {
-            val : 400,
+            val : 360,
             limit: 50,
         },
         "bổ nguyên đan phương": {
