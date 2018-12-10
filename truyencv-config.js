@@ -404,7 +404,7 @@ var qtList = {
             limit: 15,
         },
         "cà rốt": {
-            val : 1500,
+            val : 1900,
             limit: 15,
         },
         "vòng nguyệt quế": {
