@@ -392,20 +392,20 @@ var qtList = {
             limit: 4,
         },
         "nón noel": {
-            val : 6000,
+            val : 7000,
             limit: 5,
         },
         "khăn noel": {
             val : 1000,
-            limit: 15,
+            limit: 0,
         },
         "khối tuyết": {
             val : 1000,
-            limit: 15,
+            limit: 0,
         },
         "cà rốt": {
             val : 1000,
-            limit: 15,
+            limit: 0,
         },
         "vòng nguyệt quế": {
             val : 20000,
