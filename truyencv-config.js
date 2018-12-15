@@ -132,7 +132,7 @@ var qtList = {
             limit: 40,
         },
         "khai thiên thần thạch": {
-            val : 180,
+            val : 200,
             limit: 200,
         },
         "kim thuổng": {
@@ -368,7 +368,7 @@ var qtList = {
             limit: 0,
         },
         "vẫn thiết cp": {
-            val : 180,
+            val : 210,
             limit: 1000,
         },
         "vẫn thiết hp": {
@@ -376,7 +376,7 @@ var qtList = {
             limit: 1000,
         },
         "vẫn thiết thp": {
-            val : 120,
+            val : 150,
             limit: 1000,
         },
         "vẫn thiết tp": {
