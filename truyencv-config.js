@@ -176,7 +176,7 @@ var qtList = {
             limit: 100,
         },
         "luyện thần đan": {
-            val : 2400,
+            val : 2200,
             limit: 40,
         },
         "luyện thần đan phương": {
@@ -200,8 +200,8 @@ var qtList = {
             limit: 4,
         },
         "ngọc tủy linh nhũ cp": {
-            val : 4300,
-            limit: 50,
+            val : 5000,
+            limit: 20,
         },
         "ngọc tủy linh nhũ hp": {
             val : 120,
@@ -216,39 +216,39 @@ var qtList = {
             limit: 100,
         },
         "nhâm sâm vạn năm": {
-            val : 250000,
+            val : 220000,
             limit: 3,
         },
         "nội đan c1": {
-            val : 25000,
+            val : 10000,
             limit: 0,
         },
         "nội đan c2": {
-            val : 35000,
+            val : 13000,
             limit: 0,
         },
         "nội đan c3": {
-            val : 40000,
+            val : 14000,
             limit: 0,
         },
         "nội đan c4": {
-            val : 40000,
+            val : 15000,
             limit: 0,
         },
         "nội đan c5": {
-            val : 45000,
+            val : 25000,
             limit: 0,
         },
         "nội đan c6": {
-            val : 70000,
+            val : 35000,
             limit: 0,
         },
         "nội đan c7": {
-            val : 70000,
+            val : 40000,
             limit: 0,
         },
         "nội đan c8": {
-            val : 70000,
+            val : 50000,
             limit: 0,
         },
         "nội đan c9": {
@@ -392,19 +392,19 @@ var qtList = {
             limit: 4,
         },
         "nón noel": {
-            val : 6600,
+            val : 6000,
             limit: 5,
         },
         "khăn noel": {
-            val : 900,
+            val : 500,
             limit: 5,
         },
         "khối tuyết": {
-            val : 900,
+            val : 500,
             limit: 5,
         },
         "cà rốt": {
-            val : 900,
+            val : 500,
             limit: 5,
         },
         "vòng nguyệt quế": {
