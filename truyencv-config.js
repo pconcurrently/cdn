@@ -368,7 +368,7 @@ var qtList = {
             limit: 0,
         },
         "vẫn thiết cp": {
-            val : 210,
+            val : 220,
             limit: 1000,
         },
         "vẫn thiết hp": {
@@ -376,7 +376,7 @@ var qtList = {
             limit: 1000,
         },
         "vẫn thiết thp": {
-            val : 150,
+            val : 180,
             limit: 1000,
         },
         "vẫn thiết tp": {
