@@ -45,15 +45,15 @@ var qtList = {
         },
         "bốc nguyên đỉnh": {
             val : 150000,
-            limit: 2,
+            limit: 1,
         },
         "chu sa": {
             val : 1000,
             limit: 5,
         },
         "công pháp tàn quyển": {
-            val : 14000,
-            limit: 5,
+            val : 10000,
+            limit: 0,
         },
         "cố thần đan": {
             val : 30000,
@@ -61,7 +61,7 @@ var qtList = {
         },
         "dung thần đan": {
             val : 18000,
-            limit: 1,
+            limit: 0,
         },
         "địa tâm bội": {
             val : 110000,
@@ -73,7 +73,7 @@ var qtList = {
         },
         "hoán diện châu": {
             val : 20000,
-            limit: 1,
+            limit: 0,
         },
         "huyết khí đan": {
             val : 100,
@@ -93,7 +93,7 @@ var qtList = {
         },
         "hòa thị bích": {
             val : 120000,
-            limit: 0,
+            limit: 1,
         },
         "hóa long thảo": {
             val : 19,
@@ -104,7 +104,7 @@ var qtList = {
             limit: 100,
         },
         "hóa nguyên đan": {
-            val : 1300,
+            val : 1250,
             limit: 50,
         },
         "hóa nguyên đan phương": {
@@ -124,7 +124,7 @@ var qtList = {
             limit: 0,
         },
         "hộ linh trận": {
-            val : 40000,
+            val : 35000,
             limit: 1,
         },
         "hợp nguyên đan": {
@@ -132,7 +132,7 @@ var qtList = {
             limit: 40,
         },
         "khai thiên thần thạch": {
-            val : 200,
+            val : 180,
             limit: 200,
         },
         "kim thuổng": {
@@ -148,7 +148,7 @@ var qtList = {
             limit: 0,
         },
         "la bàn": {
-            val : 45000,
+            val : 40000,
             limit: 5,
         },
         "linh thạch cp": {
@@ -156,15 +156,15 @@ var qtList = {
             limit: 20,
         },
         "linh thạch hp": {
-            val : 75,
+            val : 70,
             limit: 200,
         },
         "linh thạch thp": {
-            val : 4500,
-            limit: 50,
+            val : 4000,
+            limit: 20,
         },
         "linh thạch tp": {
-            val : 550,
+            val : 450,
             limit: 100,
         },
         "linh tuyền": {
@@ -176,15 +176,15 @@ var qtList = {
             limit: 100,
         },
         "luyện thần đan": {
-            val : 2200,
-            limit: 40,
+            val : 2000,
+            limit: 50,
         },
         "luyện thần đan phương": {
             val : 80000,
             limit: 0,
         },
         "lông sói": {
-            val : 400,
+            val : 300,
             limit: 5,
         },
         "nguyệt bạch thạch": {
@@ -193,14 +193,14 @@ var qtList = {
         },
         "ngưng thần đan": {
             val : 20000,
-            limit: 1,
+            limit: 0,
         },
         "ngọc giản truyền công": {
             val : 65000,
             limit: 4,
         },
         "ngọc tủy linh nhũ cp": {
-            val : 5000,
+            val : 6000,
             limit: 20,
         },
         "ngọc tủy linh nhũ hp": {
@@ -208,7 +208,7 @@ var qtList = {
             limit: 100,
         },
         "ngọc tủy linh nhũ thp": {
-            val : 2000,
+            val : 1000,
             limit: 50,
         },
         "ngọc tủy linh nhũ tp": {
@@ -240,8 +240,8 @@ var qtList = {
             limit: 0,
         },
         "nội đan c6": {
-            val : 35000,
-            limit: 0,
+            val : 30000,
+            limit: 2,
         },
         "nội đan c7": {
             val : 40000,
@@ -260,15 +260,15 @@ var qtList = {
             limit: 0,
         },
         "quy giáp": {
-            val : 45000,
+            val : 40000,
             limit: 5,
         },
         "quyên bạch": {
-            val : 1500,
+            val : 1000,
             limit: 5,
         },
         "sa ngọc châu": {
-            val : 130000,
+            val : 140000,
             limit: 3,
         },
         "thanh tâm đan": {
@@ -288,7 +288,7 @@ var qtList = {
             limit: 0,
         },
         "thiên nguyên thảo": {
-            val : 55,
+            val : 60,
             limit: 1000,
         },
         "thiên địa lô": {
@@ -304,7 +304,7 @@ var qtList = {
             limit: 2,
         },
         "tinh linh hp": {
-            val : 38000,
+            val : 40000,
             limit: 1,
         },
         "tinh linh thp": {
@@ -312,7 +312,7 @@ var qtList = {
             limit: 1,
         },
         "tinh linh tp": {
-            val : 60000,
+            val : 75000,
             limit: 4,
         },
         "tinh thiết cp": {
@@ -332,7 +332,7 @@ var qtList = {
             limit: 0,
         },
         "trích tinh thảo": {
-            val : 350,
+            val : 370,
             limit: 500,
         },
         "trúc cơ đan phương": {
@@ -340,7 +340,7 @@ var qtList = {
             limit: 0,
         },
         "tán lôi trận": {
-            val : 140000,
+            val : 160000,
             limit: 2,
         },
         "túi trữ vật": {
@@ -348,7 +348,7 @@ var qtList = {
             limit: 5,
         },
         "tạo hóa lô": {
-            val : 2500,
+            val : 1500,
             limit: 0,
         },
         "tẩy tủy đan": {
@@ -356,7 +356,7 @@ var qtList = {
             limit: 100,
         },
         "tị lôi châu": {
-            val : 5800,
+            val : 5500,
             limit: 10,
         },
         "uẩn thiên đan": {
@@ -368,7 +368,7 @@ var qtList = {
             limit: 0,
         },
         "vẫn thiết cp": {
-            val : 220,
+            val : 200,
             limit: 1000,
         },
         "vẫn thiết hp": {
@@ -376,7 +376,7 @@ var qtList = {
             limit: 1000,
         },
         "vẫn thiết thp": {
-            val : 180,
+            val : 160,
             limit: 1000,
         },
         "vẫn thiết tp": {
@@ -393,22 +393,22 @@ var qtList = {
         },
         "nón noel": {
             val : 8000,
-            limit: 5,
+            limit: 0,
         },
         "khăn noel": {
             val : 300,
-            limit: 5,
+            limit: 0,
         },
         "khối tuyết": {
             val : 300,
-            limit: 5,
+            limit: 0,
         },
         "cà rốt": {
             val : 300,
-            limit: 5,
+            limit: 0,
         },
         "vòng nguyệt quế": {
             val : 20000,
-            limit: 5,
+            limit: 0,
         },
     };
