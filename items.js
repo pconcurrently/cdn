@@ -3922,7 +3922,7 @@ var all_items = {
   "17460": {
     "id": "17460",
     "name": "vĩnh hằng thạch",
-    "ch_in": "60",
+    "ch_in": "40",
     "ch_out": "1",
     "category": "phutro"
   },
