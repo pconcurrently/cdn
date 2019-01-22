@@ -28,15 +28,15 @@ var qtList = {
             limit: 40,
         },
         "bổ huyết đan": {
-            val : 800,
-            limit: 40,
+            val : 500,
+            limit: 0,
         },
         "bổ huyết đan phương": {
             val : 15000,
             limit: 0,
         },
         "bổ nguyên đan": {
-            val : 360,
+            val : 300,
             limit: 50,
         },
         "bổ nguyên đan phương": {
@@ -49,7 +49,7 @@ var qtList = {
         },
         "chu sa": {
             val : 1000,
-            limit: 5,
+            limit: 0,
         },
         "công pháp tàn quyển": {
             val : 10000,
@@ -148,8 +148,8 @@ var qtList = {
             limit: 0,
         },
         "la bàn": {
-            val : 40000,
-            limit: 5,
+            val : 20000,
+            limit: 1,
         },
         "linh thạch cp": {
             val : 26000,
@@ -185,11 +185,11 @@ var qtList = {
         },
         "lông sói": {
             val : 300,
-            limit: 5,
+            limit: 0,
         },
         "nguyệt bạch thạch": {
-            val : 30000,
-            limit: 0,
+            val : 45000,
+            limit: 2,
         },
         "ngưng thần đan": {
             val : 20000,
@@ -260,12 +260,12 @@ var qtList = {
             limit: 0,
         },
         "quy giáp": {
-            val : 40000,
-            limit: 5,
+            val : 20000,
+            limit: 1,
         },
         "quyên bạch": {
             val : 1000,
-            limit: 5,
+            limit: 0,
         },
         "sa ngọc châu": {
             val : 140000,
@@ -288,7 +288,7 @@ var qtList = {
             limit: 0,
         },
         "thiên nguyên thảo": {
-            val : 60,
+            val : 65,
             limit: 1000,
         },
         "thiên địa lô": {
@@ -332,7 +332,7 @@ var qtList = {
             limit: 0,
         },
         "trích tinh thảo": {
-            val : 370,
+            val : 380,
             limit: 500,
         },
         "trúc cơ đan phương": {
@@ -368,7 +368,7 @@ var qtList = {
             limit: 0,
         },
         "vẫn thiết cp": {
-            val : 200,
+            val : 340,
             limit: 1000,
         },
         "vẫn thiết hp": {
@@ -376,7 +376,7 @@ var qtList = {
             limit: 1000,
         },
         "vẫn thiết thp": {
-            val : 160,
+            val : 320,
             limit: 1000,
         },
         "vẫn thiết tp": {
