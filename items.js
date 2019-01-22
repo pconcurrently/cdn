@@ -769,6 +769,13 @@ var all_items = {
     "ch_out": "2000",
     "category": "phutro"
   },
+  "2147": {
+    "id": "2147",
+    "name": "trích tinh cung",
+    "ch_in": "1",
+    "ch_out": "1",
+    "category": "binhkhi"
+  },
   "2780": {
     "id": "2780",
     "name": "huyền thiên nhận",
@@ -1780,14 +1787,14 @@ var all_items = {
   "11685": {
     "id": "11685",
     "name": "chu sa",
-    "ch_in": "500",
+    "ch_in": "100",
     "ch_out": "950",
     "category": "phutro"
   },
   "11686": {
     "id": "11686",
     "name": "quyên bạch",
-    "ch_in": "900",
+    "ch_in": "100",
     "ch_out": "1600",
     "category": "phutro"
   },
@@ -1801,7 +1808,7 @@ var all_items = {
   "11688": {
     "id": "11688",
     "name": "lông sói",
-    "ch_in": "100",
+    "ch_in": "50",
     "ch_out": "160",
     "category": "phutro"
   },
@@ -2085,6 +2092,20 @@ var all_items = {
     "ch_out": "1",
     "category": "binhkhi"
   },
+  "13360": {
+    "id": "13360",
+    "name": "sở vân tiên trang",
+    "ch_in": "1",
+    "ch_out": "1",
+    "category": "binhkhi"
+  },
+  "13529": {
+    "id": "13529",
+    "name": "tàn tuyết thần cung +2",
+    "ch_in": "1",
+    "ch_out": "1",
+    "category": "binhkhi"
+  },
   "13637": {
     "id": "13637",
     "name": "huyền thiên tàn châm",
@@ -2255,7 +2276,7 @@ var all_items = {
   },
   "14545": {
     "id": "14545",
-    "name": "chiến thiên thánh thủ sáo",
+    "name": "bích lạc thủ sáo",
     "ch_in": "1",
     "ch_out": "1",
     "category": "binhkhi"
@@ -2281,9 +2302,16 @@ var all_items = {
     "ch_out": "1",
     "category": "binhkhi"
   },
+  "14582": {
+    "id": "14582",
+    "name": "sở vân tiên giáp",
+    "ch_in": "1",
+    "ch_out": "1",
+    "category": "binhkhi"
+  },
   "14592": {
     "id": "14592",
-    "name": "chiến thiên thánh trang",
+    "name": "bích lạc trang",
     "ch_in": "1",
     "ch_out": "1",
     "category": "binhkhi"
@@ -2347,6 +2375,13 @@ var all_items = {
   "14743": {
     "id": "14743",
     "name": "đệ 13 đao",
+    "ch_in": "1",
+    "ch_out": "1",
+    "category": "binhkhi"
+  },
+  "14771": {
+    "id": "14771",
+    "name": "càn khôn phủ +3",
     "ch_in": "1",
     "ch_out": "1",
     "category": "binhkhi"
@@ -2449,6 +2484,13 @@ var all_items = {
     "ch_out": "1",
     "category": "binhkhi"
   },
+  "15052": {
+    "id": "15052",
+    "name": "béo đế giáp",
+    "ch_in": "1",
+    "ch_out": "1",
+    "category": "binhkhi"
+  },
   "15062": {
     "id": "15062",
     "name": "thương nhân thánh ngoa",
@@ -2456,9 +2498,23 @@ var all_items = {
     "ch_out": "1",
     "category": "binhkhi"
   },
+  "15063": {
+    "id": "15063",
+    "name": "béo đế thủ sáo",
+    "ch_in": "1",
+    "ch_out": "1",
+    "category": "binhkhi"
+  },
   "15064": {
     "id": "15064",
     "name": "khí đệ 4 khôi",
+    "ch_in": "1",
+    "ch_out": "1",
+    "category": "binhkhi"
+  },
+  "15082": {
+    "id": "15082",
+    "name": "béo đế yêu đái",
     "ch_in": "1",
     "ch_out": "1",
     "category": "binhkhi"
@@ -2473,6 +2529,27 @@ var all_items = {
   "15092": {
     "id": "15092",
     "name": "béo thánh yêu đái",
+    "ch_in": "1",
+    "ch_out": "1",
+    "category": "binhkhi"
+  },
+  "15096": {
+    "id": "15096",
+    "name": "béo đế trang",
+    "ch_in": "1",
+    "ch_out": "1",
+    "category": "binhkhi"
+  },
+  "15108": {
+    "id": "15108",
+    "name": "béo đế ngoa",
+    "ch_in": "1",
+    "ch_out": "1",
+    "category": "binhkhi"
+  },
+  "15125": {
+    "id": "15125",
+    "name": "béo đế thuẫn",
     "ch_in": "1",
     "ch_out": "1",
     "category": "binhkhi"
@@ -2634,6 +2711,13 @@ var all_items = {
   "15446": {
     "id": "15446",
     "name": "1 thương",
+    "ch_in": "1",
+    "ch_out": "1",
+    "category": "binhkhi"
+  },
+  "15455": {
+    "id": "15455",
+    "name": "quân vương ma phủ +2",
     "ch_in": "1",
     "ch_out": "1",
     "category": "binhkhi"
@@ -2918,6 +3002,13 @@ var all_items = {
     "ch_out": "1",
     "category": "phutro"
   },
+  "15794": {
+    "id": "15794",
+    "name": "phong hi thủ sáo",
+    "ch_in": "1",
+    "ch_out": "1",
+    "category": "binhkhi"
+  },
   "15799": {
     "id": "15799",
     "name": "vũ cấp 37 đao",
@@ -2995,6 +3086,13 @@ var all_items = {
     "ch_out": "1",
     "category": "binhkhi"
   },
+  "15831": {
+    "id": "15831",
+    "name": "thiên thử khôi",
+    "ch_in": "1",
+    "ch_out": "1",
+    "category": "binhkhi"
+  },
   "15845": {
     "id": "15845",
     "name": "vũ cấp 40 đao",
@@ -3067,7 +3165,7 @@ var all_items = {
   },
   "15975": {
     "id": "15975",
-    "name": "phệ ma thuẫn",
+    "name": "bích lạc thuẫn",
     "ch_in": "1",
     "ch_out": "1",
     "category": "binhkhi"
@@ -3228,7 +3326,7 @@ var all_items = {
   },
   "16324": {
     "id": "16324",
-    "name": "siêu thần châm",
+    "name": "vương giả chi châm",
     "ch_in": "1",
     "ch_out": "1",
     "category": "binhkhi"
@@ -3292,6 +3390,13 @@ var all_items = {
   "16398": {
     "id": "16398",
     "name": "vũ cấp 8 thuẫn",
+    "ch_in": "1",
+    "ch_out": "1",
+    "category": "binhkhi"
+  },
+  "16401": {
+    "id": "16401",
+    "name": "sở vân tiên khôi",
     "ch_in": "1",
     "ch_out": "1",
     "category": "binhkhi"
@@ -3480,7 +3585,7 @@ var all_items = {
   },
   "16642": {
     "id": "16642",
-    "name": "yêu thần giáp",
+    "name": "bích lạc giáp",
     "ch_in": "1",
     "ch_out": "1",
     "category": "binhkhi"
@@ -3576,6 +3681,13 @@ var all_items = {
     "ch_out": "1",
     "category": "binhkhi"
   },
+  "16712": {
+    "id": "16712",
+    "name": "sở vân tiên thuẫn",
+    "ch_in": "1",
+    "ch_out": "1",
+    "category": "binhkhi"
+  },
   "16715": {
     "id": "16715",
     "name": "tròn tròn thuẫn",
@@ -3627,7 +3739,7 @@ var all_items = {
   },
   "16758": {
     "id": "16758",
-    "name": "yêu thần ngoa",
+    "name": "bích lạc thánh ngoa",
     "ch_in": "1",
     "ch_out": "1",
     "category": "binhkhi"
@@ -3718,7 +3830,7 @@ var all_items = {
   },
   "16889": {
     "id": "16889",
-    "name": "cửu ngũ ma tiên",
+    "name": "cửu ngũ ma tiên +2",
     "ch_in": "1",
     "ch_out": "1",
     "category": "binhkhi"
@@ -3744,6 +3856,13 @@ var all_items = {
     "ch_out": "1",
     "category": "binhkhi"
   },
+  "16934": {
+    "id": "16934",
+    "name": "sở vân ngoa",
+    "ch_in": "1",
+    "ch_out": "1",
+    "category": "binhkhi"
+  },
   "16944": {
     "id": "16944",
     "name": "thần cấp 773 giáp",
@@ -3753,7 +3872,7 @@ var all_items = {
   },
   "16954": {
     "id": "16954",
-    "name": "cửu ngũ ma kích",
+    "name": "không cần sửa kích",
     "ch_in": "1",
     "ch_out": "1",
     "category": "binhkhi"
@@ -3830,7 +3949,7 @@ var all_items = {
   },
   "17226": {
     "id": "17226",
-    "name": "cửu ngữ chân thương",
+    "name": "cửu ngữ chân thương +2",
     "ch_in": "1",
     "ch_out": "1",
     "category": "binhkhi"
@@ -3851,7 +3970,7 @@ var all_items = {
   },
   "17254": {
     "id": "17254",
-    "name": "cửu ngữ chân đao",
+    "name": "cửu ngữ chân đao +2",
     "ch_in": "1",
     "ch_out": "1",
     "category": "binhkhi"
@@ -3859,6 +3978,13 @@ var all_items = {
   "17261": {
     "id": "17261",
     "name": "trấn thiên yêu đái",
+    "ch_in": "1",
+    "ch_out": "1",
+    "category": "binhkhi"
+  },
+  "17278": {
+    "id": "17278",
+    "name": "diệt thiên yêu trang",
     "ch_in": "1",
     "ch_out": "1",
     "category": "binhkhi"
@@ -3898,9 +4024,30 @@ var all_items = {
     "ch_out": "1",
     "category": "binhkhi"
   },
+  "17360": {
+    "id": "17360",
+    "name": "thất thần thủ sáo",
+    "ch_in": "1",
+    "ch_out": "1",
+    "category": "binhkhi"
+  },
   "17362": {
     "id": "17362",
-    "name": "cửu ngữ ma chùy",
+    "name": "nam đế chùy",
+    "ch_in": "1",
+    "ch_out": "1",
+    "category": "binhkhi"
+  },
+  "17395": {
+    "id": "17395",
+    "name": "thất thần khôi",
+    "ch_in": "1",
+    "ch_out": "1",
+    "category": "binhkhi"
+  },
+  "17413": {
+    "id": "17413",
+    "name": "thất thần trang",
     "ch_in": "1",
     "ch_out": "1",
     "category": "binhkhi"
@@ -3908,6 +4055,13 @@ var all_items = {
   "17417": {
     "id": "17417",
     "name": "thông khí kiếm",
+    "ch_in": "1",
+    "ch_out": "1",
+    "category": "binhkhi"
+  },
+  "17430": {
+    "id": "17430",
+    "name": "thất thần thuẫn",
     "ch_in": "1",
     "ch_out": "1",
     "category": "binhkhi"
@@ -3922,8 +4076,71 @@ var all_items = {
   "17460": {
     "id": "17460",
     "name": "vĩnh hằng thạch",
-    "ch_in": "40",
+    "ch_in": "25",
     "ch_out": "1",
     "category": "phutro"
+  },
+  "17713": {
+    "id": "17713",
+    "name": "trà trà hoa khôi",
+    "ch_in": "1",
+    "ch_out": "1",
+    "category": "binhkhi"
+  },
+  "17753": {
+    "id": "17753",
+    "name": "cây cây đoan trang",
+    "ch_in": "1",
+    "ch_out": "1",
+    "category": "binhkhi"
+  },
+  "17785": {
+    "id": "17785",
+    "name": "trích tinh thủ sáo",
+    "ch_in": "1",
+    "ch_out": "1",
+    "category": "binhkhi"
+  },
+  "17811": {
+    "id": "17811",
+    "name": "trích tinh yêu đái",
+    "ch_in": "1",
+    "ch_out": "1",
+    "category": "binhkhi"
+  },
+  "17812": {
+    "id": "17812",
+    "name": "đế minh quyết",
+    "ch_in": "1",
+    "ch_out": "1",
+    "category": "congphap"
+  },
+  "17837": {
+    "id": "17837",
+    "name": "tình tự địa cầm",
+    "ch_in": "1",
+    "ch_out": "1",
+    "category": "binhkhi"
+  },
+  "17853": {
+    "id": "17853",
+    "name": "trích tinh thánh thuẫn",
+    "ch_in": "1",
+    "ch_out": "1",
+    "category": "binhkhi"
+  },
+  "17884": {
+    "id": "17884",
+    "name": "trích tinh thánh giáp",
+    "ch_in": "1",
+    "ch_out": "1",
+    "category": "binhkhi"
+  },
+  "17943": {
+    "id": "17943",
+    "name": "trích tinh thánh ngoa",
+    "ch_in": "1",
+    "ch_out": "1",
+    "category": "binhkhi"
   },
 };
