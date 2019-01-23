@@ -59,7 +59,7 @@ var all_items = {
     "id": "11",
     "name": "đê giai thuẫn",
     "ch_in": "1150",
-    "ch_out": "1500",
+    "ch_out": "1700",
     "category": "dotpha"
   },
   "12": {
@@ -101,7 +101,7 @@ var all_items = {
     "id": "17",
     "name": "tị lôi châu",
     "ch_in": "1100",
-    "ch_out": "1740",
+    "ch_out": "2160",
     "category": "dotpha"
   },
   "18": {
@@ -150,21 +150,21 @@ var all_items = {
     "id": "24",
     "name": "hóa long thảo",
     "ch_in": "4",
-    "ch_out": "12",
+    "ch_out": "14",
     "category": "linhthao"
   },
   "25": {
     "id": "25",
     "name": "ngọc tủy chi",
-    "ch_in": "5",
-    "ch_out": "18",
+    "ch_in": "6",
+    "ch_out": "22",
     "category": "linhthao"
   },
   "26": {
     "id": "26",
     "name": "thiên linh quả",
     "ch_in": "8",
-    "ch_out": "20",
+    "ch_out": "17",
     "category": "linhthao"
   },
   "27": {
@@ -206,21 +206,21 @@ var all_items = {
     "id": "32",
     "name": "trích tinh thảo",
     "ch_in": "70",
-    "ch_out": "94",
+    "ch_out": "100",
     "category": "linhthao"
   },
   "33": {
     "id": "33",
     "name": "thiên nguyên thảo",
     "ch_in": "11",
-    "ch_out": "20",
+    "ch_out": "21",
     "category": "linhthao"
   },
   "34": {
     "id": "34",
     "name": "thanh tâm đan",
     "ch_in": "2100",
-    "ch_out": "3300",
+    "ch_out": "3600",
     "category": "dotpha"
   },
   "36": {
@@ -310,8 +310,8 @@ var all_items = {
   "57": {
     "id": "57",
     "name": "kim thuổng",
-    "ch_in": "30",
-    "ch_out": "50",
+    "ch_in": "40",
+    "ch_out": "100",
     "category": "phutro"
   },
   "60": {
@@ -339,7 +339,7 @@ var all_items = {
     "id": "63",
     "name": "anh tâm thảo",
     "ch_in": "240",
-    "ch_out": "320",
+    "ch_out": "340",
     "category": "linhthao"
   },
   "64": {
@@ -696,28 +696,28 @@ var all_items = {
     "id": "1118",
     "name": "vẫn thiết hp",
     "ch_in": "5",
-    "ch_out": "12",
+    "ch_out": "14",
     "category": "phutro"
   },
   "1123": {
     "id": "1123",
     "name": "vẫn thiết tp",
     "ch_in": "10",
-    "ch_out": "20",
+    "ch_out": "24",
     "category": "phutro"
   },
   "1124": {
     "id": "1124",
     "name": "vẫn thiết thp",
-    "ch_in": "34",
-    "ch_out": "70",
+    "ch_in": "45",
+    "ch_out": "130",
     "category": "phutro"
   },
   "1125": {
     "id": "1125",
     "name": "vẫn thiết cp",
-    "ch_in": "36",
-    "ch_out": "75",
+    "ch_in": "48",
+    "ch_out": "140",
     "category": "phutro"
   },
   "1224": {
@@ -1186,7 +1186,7 @@ var all_items = {
     "id": "7906",
     "name": "luyện thần thảo",
     "ch_in": "230",
-    "ch_out": "310",
+    "ch_out": "325",
     "category": "linhthao"
   },
   "7946": {
@@ -3319,7 +3319,7 @@ var all_items = {
   },
   "16309": {
     "id": "16309",
-    "name": "siêu thần kiếm",
+    "name": "sinh liên kiếm +2",
     "ch_in": "1",
     "ch_out": "1",
     "category": "binhkhi"
