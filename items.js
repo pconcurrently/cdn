@@ -206,7 +206,7 @@ var all_items = {
     "id": "32",
     "name": "trích tinh thảo",
     "ch_in": "70",
-    "ch_out": "100",
+    "ch_out": "1",
     "category": "linhthao"
   },
   "33": {
