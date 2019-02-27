@@ -13,7 +13,9 @@ function export_items() {
             var name = $($td[0]).text().toLowerCase();
             var ch_in = $($td[1]).find("input").val();
             var ch_out = $($td[2]).find("input").val();
-            var id = $($td[1]).find("input").attr("id").match(/\d+/)[0];
+            if ($($td[1]).find("input").attr("id")) {
+                var id = $($td[1]).find("input").attr("id").match(/\d+/)[0];
+            }
         }
 
         if (!items_list[id] && ignoreCategories.indexOf(parentId) === -1) {
