@@ -101,7 +101,7 @@ var all_items = {
     "id": "17",
     "name": "tị lôi châu",
     "ch_in": "1100",
-    "ch_out": "2160",
+    "ch_out": "2800",
     "category": "dotpha"
   },
   "18": {
@@ -220,7 +220,7 @@ var all_items = {
     "id": "34",
     "name": "thanh tâm đan",
     "ch_in": "2100",
-    "ch_out": "3600",
+    "ch_out": "4000",
     "category": "dotpha"
   },
   "36": {
@@ -709,8 +709,8 @@ var all_items = {
   "1123": {
     "id": "1123",
     "name": "vẫn thiết tp",
-    "ch_in": "10",
-    "ch_out": "24",
+    "ch_in": "15",
+    "ch_out": "62",
     "category": "phutro"
   },
   "1124": {
@@ -1546,6 +1546,13 @@ var all_items = {
     "ch_out": "1",
     "category": "binhkhi"
   },
+  "10163": {
+    "id": "10163",
+    "name": "spam thánh thủ sáo",
+    "ch_in": "1",
+    "ch_out": "1",
+    "category": "binhkhi"
+  },
   "10226": {
     "id": "10226",
     "name": "sơn hà cung",
@@ -1898,7 +1905,7 @@ var all_items = {
   },
   "12287": {
     "id": "12287",
-    "name": "bốc nguyên đỉnh",
+    "name": "hắc ma đỉnh",
     "ch_in": "20000",
     "ch_out": "35000",
     "category": "phutro"
@@ -1909,6 +1916,13 @@ var all_items = {
     "ch_in": "70000",
     "ch_out": "100000",
     "category": "phutro"
+  },
+  "12335": {
+    "id": "12335",
+    "name": "lạc huyên giáp",
+    "ch_in": "1",
+    "ch_out": "1",
+    "category": "binhkhi"
   },
   "12459": {
     "id": "12459",
@@ -1941,6 +1955,13 @@ var all_items = {
   "12530": {
     "id": "12530",
     "name": "như ý kiếm cầm",
+    "ch_in": "1",
+    "ch_out": "1",
+    "category": "binhkhi"
+  },
+  "12570": {
+    "id": "12570",
+    "name": "mạc tà giáp",
     "ch_in": "1",
     "ch_out": "1",
     "category": "binhkhi"
@@ -2060,6 +2081,13 @@ var all_items = {
   "13038": {
     "id": "13038",
     "name": "thập phương thánh đao",
+    "ch_in": "1",
+    "ch_out": "1",
+    "category": "binhkhi"
+  },
+  "13085": {
+    "id": "13085",
+    "name": "bạch sa trang",
     "ch_in": "1",
     "ch_out": "1",
     "category": "binhkhi"
@@ -2479,7 +2507,7 @@ var all_items = {
   },
   "14960": {
     "id": "14960",
-    "name": "huyết vũ cung",
+    "name": "huyết vũ cung +2",
     "ch_in": "1",
     "ch_out": "1",
     "category": "binhkhi"
@@ -2956,6 +2984,13 @@ var all_items = {
   "15669": {
     "id": "15669",
     "name": "cửu kiếm",
+    "ch_in": "1",
+    "ch_out": "1",
+    "category": "binhkhi"
+  },
+  "15686": {
+    "id": "15686",
+    "name": "hoàng thí thủ sáo +1",
     "ch_in": "1",
     "ch_out": "1",
     "category": "binhkhi"
@@ -3466,7 +3501,7 @@ var all_items = {
   },
   "16411": {
     "id": "16411",
-    "name": "thiên đố chi phủ",
+    "name": "thiên đố chi phủ +2",
     "ch_in": "1",
     "ch_out": "1",
     "category": "binhkhi"
@@ -3621,6 +3656,13 @@ var all_items = {
   "16603": {
     "id": "16603",
     "name": "tròn tròn thủ sáo",
+    "ch_in": "1",
+    "ch_out": "1",
+    "category": "binhkhi"
+  },
+  "16604": {
+    "id": "16604",
+    "name": "dương trang nhận +3",
     "ch_in": "1",
     "ch_out": "1",
     "category": "binhkhi"
@@ -3954,6 +3996,13 @@ var all_items = {
     "ch_out": "1",
     "category": "binhkhi"
   },
+  "16982": {
+    "id": "16982",
+    "name": "huyết tuyệt thủ sáo",
+    "ch_in": "1",
+    "ch_out": "1",
+    "category": "binhkhi"
+  },
   "16986": {
     "id": "16986",
     "name": "thần cấp 2 yêu đái",
@@ -3964,6 +4013,13 @@ var all_items = {
   "16992": {
     "id": "16992",
     "name": "cửu ngũ ma châm",
+    "ch_in": "1",
+    "ch_out": "1",
+    "category": "binhkhi"
+  },
+  "17008": {
+    "id": "17008",
+    "name": "sát thần thuẫn",
     "ch_in": "1",
     "ch_out": "1",
     "category": "binhkhi"
@@ -3982,9 +4038,23 @@ var all_items = {
     "ch_out": "1",
     "category": "binhkhi"
   },
+  "17042": {
+    "id": "17042",
+    "name": "nát bét khôi",
+    "ch_in": "1",
+    "ch_out": "1",
+    "category": "binhkhi"
+  },
   "17054": {
     "id": "17054",
     "name": "kinh thiên chiến ngoa",
+    "ch_in": "1",
+    "ch_out": "1",
+    "category": "binhkhi"
+  },
+  "17081": {
+    "id": "17081",
+    "name": "huyết ảnh ngoa",
     "ch_in": "1",
     "ch_out": "1",
     "category": "binhkhi"
@@ -4103,7 +4173,7 @@ var all_items = {
   },
   "17362": {
     "id": "17362",
-    "name": "nam đế chùy +3",
+    "name": "nam đế chùy +4",
     "ch_in": "1",
     "ch_out": "1",
     "category": "binhkhi"
@@ -4444,9 +4514,44 @@ var all_items = {
     "ch_out": "1",
     "category": "binhkhi"
   },
+  "18283": {
+    "id": "18283",
+    "name": "hình thiên khôi",
+    "ch_in": "1",
+    "ch_out": "1",
+    "category": "binhkhi"
+  },
+  "18298": {
+    "id": "18298",
+    "name": "hình thiên giáp",
+    "ch_in": "1",
+    "ch_out": "1",
+    "category": "binhkhi"
+  },
+  "18318": {
+    "id": "18318",
+    "name": "hình thiên thủ sáo",
+    "ch_in": "1",
+    "ch_out": "1",
+    "category": "binhkhi"
+  },
   "18350": {
     "id": "18350",
     "name": "bút đao +2",
+    "ch_in": "1",
+    "ch_out": "1",
+    "category": "binhkhi"
+  },
+  "18368": {
+    "id": "18368",
+    "name": "hình thiên yêu đái",
+    "ch_in": "1",
+    "ch_out": "1",
+    "category": "binhkhi"
+  },
+  "18385": {
+    "id": "18385",
+    "name": "hình thiên trang",
     "ch_in": "1",
     "ch_out": "1",
     "category": "binhkhi"
@@ -4458,9 +4563,79 @@ var all_items = {
     "ch_out": "1",
     "category": "congphap"
   },
+  "18409": {
+    "id": "18409",
+    "name": "hình thiên ngoa",
+    "ch_in": "1",
+    "ch_out": "1",
+    "category": "binhkhi"
+  },
+  "18480": {
+    "id": "18480",
+    "name": "hình thiên thuẫn",
+    "ch_in": "1",
+    "ch_out": "1",
+    "category": "binhkhi"
+  },
+  "18501": {
+    "id": "18501",
+    "name": "chiến minh khôi",
+    "ch_in": "1",
+    "ch_out": "1",
+    "category": "binhkhi"
+  },
+  "18519": {
+    "id": "18519",
+    "name": "chiến minh giáp",
+    "ch_in": "1",
+    "ch_out": "1",
+    "category": "binhkhi"
+  },
+  "18562": {
+    "id": "18562",
+    "name": "chiến minh thủ sáo",
+    "ch_in": "1",
+    "ch_out": "1",
+    "category": "binhkhi"
+  },
+  "18564": {
+    "id": "18564",
+    "name": "chung cực nhất kích",
+    "ch_in": "1",
+    "ch_out": "1",
+    "category": "binhkhi"
+  },
+  "18618": {
+    "id": "18618",
+    "name": "chiến minh yêu đái",
+    "ch_in": "1",
+    "ch_out": "1",
+    "category": "binhkhi"
+  },
+  "18663": {
+    "id": "18663",
+    "name": "thiên thu nhạc cầm",
+    "ch_in": "1",
+    "ch_out": "1",
+    "category": "binhkhi"
+  },
   "18667": {
     "id": "18667",
     "name": "chiến minh trang",
+    "ch_in": "1",
+    "ch_out": "1",
+    "category": "binhkhi"
+  },
+  "18739": {
+    "id": "18739",
+    "name": "chiến minh ngoa",
+    "ch_in": "1",
+    "ch_out": "1",
+    "category": "binhkhi"
+  },
+  "18794": {
+    "id": "18794",
+    "name": "chiến minh thuẫn",
     "ch_in": "1",
     "ch_out": "1",
     "category": "binhkhi"
@@ -4556,9 +4731,114 @@ var all_items = {
     "ch_out": "1",
     "category": "congphap"
   },
+  "19331": {
+    "id": "19331",
+    "name": "spam thần thủ sáo",
+    "ch_in": "1",
+    "ch_out": "1",
+    "category": "binhkhi"
+  },
   "19334": {
     "id": "19334",
     "name": "bá thế chi thủ sáo",
+    "ch_in": "1",
+    "ch_out": "1",
+    "category": "binhkhi"
+  },
+  "19407": {
+    "id": "19407",
+    "name": "spam thần trang",
+    "ch_in": "1",
+    "ch_out": "1",
+    "category": "binhkhi"
+  },
+  "19426": {
+    "id": "19426",
+    "name": "hoàng tuyền á trang",
+    "ch_in": "1",
+    "ch_out": "1",
+    "category": "binhkhi"
+  },
+  "19453": {
+    "id": "19453",
+    "name": "hoàng tuyền á giáp",
+    "ch_in": "1",
+    "ch_out": "1",
+    "category": "binhkhi"
+  },
+  "19478": {
+    "id": "19478",
+    "name": "spam thần ngoa",
+    "ch_in": "1",
+    "ch_out": "1",
+    "category": "binhkhi"
+  },
+  "19489": {
+    "id": "19489",
+    "name": "hoàng tuyền á thuẫn",
+    "ch_in": "1",
+    "ch_out": "1",
+    "category": "binhkhi"
+  },
+  "19622": {
+    "id": "19622",
+    "name": "spam thần khôi",
+    "ch_in": "1",
+    "ch_out": "1",
+    "category": "binhkhi"
+  },
+  "19653": {
+    "id": "19653",
+    "name": "hoàng tuyền á yêu đái",
+    "ch_in": "1",
+    "ch_out": "1",
+    "category": "binhkhi"
+  },
+  "19659": {
+    "id": "19659",
+    "name": "spam thần giáp",
+    "ch_in": "1",
+    "ch_out": "1",
+    "category": "binhkhi"
+  },
+  "19723": {
+    "id": "19723",
+    "name": "spam thần thuẫn",
+    "ch_in": "1",
+    "ch_out": "1",
+    "category": "binhkhi"
+  },
+  "19778": {
+    "id": "19778",
+    "name": "diệu hương mang giáp +1",
+    "ch_in": "1",
+    "ch_out": "1",
+    "category": "binhkhi"
+  },
+  "19785": {
+    "id": "19785",
+    "name": "thánh thần chi thủ sáo",
+    "ch_in": "1",
+    "ch_out": "1",
+    "category": "binhkhi"
+  },
+  "19811": {
+    "id": "19811",
+    "name": "diệu hương đoan trang +1",
+    "ch_in": "1",
+    "ch_out": "1",
+    "category": "binhkhi"
+  },
+  "19838": {
+    "id": "19838",
+    "name": "bạch yên thần khôi",
+    "ch_in": "1",
+    "ch_out": "1",
+    "category": "binhkhi"
+  },
+  "19895": {
+    "id": "19895",
+    "name": "thánh thần chi ngoa",
     "ch_in": "1",
     "ch_out": "1",
     "category": "binhkhi"
