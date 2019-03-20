@@ -45,7 +45,7 @@ var all_items = {
     "id": "9",
     "name": "tẩy tủy đan",
     "ch_in": "35",
-    "ch_out": "43",
+    "ch_out": "46",
     "category": "tangexp"
   },
   "10": {
@@ -72,15 +72,15 @@ var all_items = {
   "13": {
     "id": "13",
     "name": "trúc cơ đan",
-    "ch_in": "48",
-    "ch_out": "58",
+    "ch_in": "46",
+    "ch_out": "60",
     "category": "tangexp"
   },
   "14": {
     "id": "14",
     "name": "bổ nguyên đan",
-    "ch_in": "75",
-    "ch_out": "94",
+    "ch_in": "72",
+    "ch_out": "96",
     "category": "tangexp"
   },
   "15": {
@@ -128,8 +128,8 @@ var all_items = {
   "21": {
     "id": "21",
     "name": "linh thạch hp",
-    "ch_in": "12",
-    "ch_out": "21",
+    "ch_in": "11",
+    "ch_out": "22",
     "category": "tangexp"
   },
   "22": {
@@ -142,7 +142,7 @@ var all_items = {
   "23": {
     "id": "23",
     "name": "uẩn kim thảo",
-    "ch_in": "4",
+    "ch_in": "3",
     "ch_out": "11",
     "category": "linhthao"
   },
@@ -205,15 +205,15 @@ var all_items = {
   "32": {
     "id": "32",
     "name": "trích tinh thảo",
-    "ch_in": "70",
+    "ch_in": "68",
     "ch_out": "1",
     "category": "linhthao"
   },
   "33": {
     "id": "33",
     "name": "thiên nguyên thảo",
-    "ch_in": "11",
-    "ch_out": "21",
+    "ch_in": "10",
+    "ch_out": "24",
     "category": "linhthao"
   },
   "34": {
@@ -240,8 +240,8 @@ var all_items = {
   "40": {
     "id": "40",
     "name": "bổ anh đan",
-    "ch_in": "195",
-    "ch_out": "225",
+    "ch_in": "185",
+    "ch_out": "235",
     "category": "tangexp"
   },
   "42": {
@@ -282,15 +282,15 @@ var all_items = {
   "52": {
     "id": "52",
     "name": "ngọc tủy linh nhũ thp",
-    "ch_in": "500",
+    "ch_in": "400",
     "ch_out": "1000",
     "category": "tangexp"
   },
   "53": {
     "id": "53",
     "name": "ngọc tủy linh nhũ cp",
-    "ch_in": "1250",
-    "ch_out": "2500",
+    "ch_in": "1200",
+    "ch_out": "2800",
     "category": "tangexp"
   },
   "55": {
@@ -324,22 +324,22 @@ var all_items = {
   "61": {
     "id": "61",
     "name": "linh thạch thp",
-    "ch_in": "1050",
-    "ch_out": "1350",
+    "ch_in": "830",
+    "ch_out": "1320",
     "category": "tangexp"
   },
   "62": {
     "id": "62",
     "name": "hóa nguyên đan",
     "ch_in": "290",
-    "ch_out": "355",
+    "ch_out": "375",
     "category": "tangexp"
   },
   "63": {
     "id": "63",
     "name": "anh tâm thảo",
     "ch_in": "240",
-    "ch_out": "340",
+    "ch_out": "360",
     "category": "linhthao"
   },
   "64": {
@@ -352,8 +352,8 @@ var all_items = {
   "65": {
     "id": "65",
     "name": "hóa nguyên thảo",
-    "ch_in": "240",
-    "ch_out": "320",
+    "ch_in": "220",
+    "ch_out": "340",
     "category": "linhthao"
   },
   "66": {
@@ -387,7 +387,7 @@ var all_items = {
   "73": {
     "id": "73",
     "name": "tinh thiết hp",
-    "ch_in": "0",
+    "ch_in": "1",
     "ch_out": "10",
     "category": "phutro"
   },
@@ -415,8 +415,8 @@ var all_items = {
   "78": {
     "id": "78",
     "name": "nhân sâm vạn năm",
-    "ch_in": "58000",
-    "ch_out": "67000",
+    "ch_in": "45000",
+    "ch_out": "70000",
     "category": "phutro"
   },
   "85": {
@@ -450,28 +450,28 @@ var all_items = {
   "103": {
     "id": "103",
     "name": "huyết tinh thảo",
-    "ch_in": "6",
+    "ch_in": "3",
     "ch_out": "15",
     "category": "linhthao"
   },
   "104": {
     "id": "104",
     "name": "tinh thiết tp",
-    "ch_in": "0",
+    "ch_in": "1",
     "ch_out": "20",
     "category": "phutro"
   },
   "105": {
     "id": "105",
     "name": "tinh thiết thp",
-    "ch_in": "0",
+    "ch_in": "1",
     "ch_out": "30",
     "category": "phutro"
   },
   "106": {
     "id": "106",
     "name": "tinh thiết cp",
-    "ch_in": "0",
+    "ch_in": "1",
     "ch_out": "40",
     "category": "phutro"
   },
@@ -576,15 +576,15 @@ var all_items = {
   "599": {
     "id": "599",
     "name": "tinh linh hp",
-    "ch_in": "9000",
+    "ch_in": "8500",
     "ch_out": "12000",
     "category": "tangexp"
   },
   "600": {
     "id": "600",
     "name": "tinh linh tp",
-    "ch_in": "14000",
-    "ch_out": "21000",
+    "ch_in": "13000",
+    "ch_out": "22500",
     "category": "tangexp"
   },
   "601": {
@@ -597,7 +597,7 @@ var all_items = {
   "602": {
     "id": "602",
     "name": "tinh linh cp",
-    "ch_in": "34000",
+    "ch_in": "2500",
     "ch_out": "1",
     "category": "tangexp"
   },
@@ -605,14 +605,14 @@ var all_items = {
     "id": "603",
     "name": "hợp nguyên đan",
     "ch_in": "900",
-    "ch_out": "1100",
+    "ch_out": "2100",
     "category": "tangexp"
   },
   "605": {
     "id": "605",
     "name": "đại linh đan",
     "ch_in": "1800",
-    "ch_out": "2400",
+    "ch_out": "3200",
     "category": "tangexp"
   },
   "606": {
@@ -1206,8 +1206,8 @@ var all_items = {
   "7906": {
     "id": "7906",
     "name": "luyện thần thảo",
-    "ch_in": "230",
-    "ch_out": "325",
+    "ch_in": "220",
+    "ch_out": "340",
     "category": "linhthao"
   },
   "7946": {
@@ -1220,7 +1220,7 @@ var all_items = {
   "8007": {
     "id": "8007",
     "name": "độ hư đan",
-    "ch_in": "3900",
+    "ch_in": "1000",
     "ch_out": "1",
     "category": "tangexp"
   },
@@ -1234,7 +1234,7 @@ var all_items = {
   "8080": {
     "id": "8080",
     "name": "thiên kiếm lệnh",
-    "ch_in": "8000",
+    "ch_in": "7000",
     "ch_out": "14000",
     "category": "phutro"
   },
@@ -1325,7 +1325,7 @@ var all_items = {
   "8494": {
     "id": "8494",
     "name": "nội đan c8",
-    "ch_in": "10000",
+    "ch_in": "1500",
     "ch_out": "18000",
     "category": "phutro"
   },
@@ -1829,7 +1829,7 @@ var all_items = {
   "11687": {
     "id": "11687",
     "name": "la bàn",
-    "ch_in": "9000",
+    "ch_in": "7500",
     "ch_out": "1",
     "category": "phutro"
   },
@@ -1843,7 +1843,7 @@ var all_items = {
   "11689": {
     "id": "11689",
     "name": "quy giáp",
-    "ch_in": "9000",
+    "ch_in": "7500",
     "ch_out": "1",
     "category": "phutro"
   },
@@ -1982,7 +1982,7 @@ var all_items = {
   },
   "12686": {
     "id": "12686",
-    "name": "thập phương thánh khôi",
+    "name": "viễn cổ thánh khôi",
     "ch_in": "1",
     "ch_out": "1",
     "category": "binhkhi"
@@ -2045,7 +2045,7 @@ var all_items = {
   },
   "12845": {
     "id": "12845",
-    "name": "thập phương thủ sáo",
+    "name": "viễn cổ thánh thủ sáo",
     "ch_in": "1",
     "ch_out": "1",
     "category": "binhkhi"
@@ -4223,6 +4223,13 @@ var all_items = {
   "17583": {
     "id": "17583",
     "name": "bút nhận +2",
+    "ch_in": "1",
+    "ch_out": "1",
+    "category": "binhkhi"
+  },
+  "17628": {
+    "id": "17628",
+    "name": "huyền thiên kiếm",
     "ch_in": "1",
     "ch_out": "1",
     "category": "binhkhi"
